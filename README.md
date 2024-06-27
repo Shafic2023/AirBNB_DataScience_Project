@@ -1,4 +1,6 @@
 # AirBNB_DataScience_Project
+![image](https://github.com/Shafic2023/AirBNB_DataScience_Project/assets/134142256/58712966-fb28-496a-8252-da609dce8cc6)
+
 ## 📖 Overview
 ### What are the factors and features of a listing that make an Airbnb listing in Seattle more expensive?  
   
